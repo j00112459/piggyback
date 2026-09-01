@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Piggyback 협업 컨벤션
+    url: https://github.com/j00112459/piggyback/tree/develop/docs
+    about: Issue 작성 전 브랜치, 커밋, 코드 컨벤션을 확인해주세요.
